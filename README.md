@@ -1,6 +1,9 @@
 # Password Generator using React
 
- This application will be able to generate a strong password by generating a random sequence of uppercase letters , lowercase letters, numbers and special characters.
+ This application will be able to generate a strong password by generating a random sequence of uppercase letters , lowercase letters, numbers and special characters. 
+
+ ![image](https://github.com/VSudarshana/password-generator/assets/140592185/165561e1-c249-42cf-8213-8b9802019c5e)
+
  
 # Getting Started with Create React App
 
